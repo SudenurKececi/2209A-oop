@@ -94,3 +94,5 @@ tahminleri canlı olarak görüntülenir.
     ├── fig1..fig6 *.png              # Karşılaştırma grafikleri
     └── sim_senaryo*.gif              # Simülasyon animasyonları
 ```
+<img width="1810" height="983" alt="image" src="https://github.com/user-attachments/assets/a8e7306a-bf43-46be-ad5c-f5068e28d527" />
+
