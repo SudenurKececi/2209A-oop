@@ -1,0 +1,4 @@
+[console_scripts]
+adaptation_node = hybrid_nav.adaptation_node:main
+perception_node = hybrid_nav.perception_node:main
+

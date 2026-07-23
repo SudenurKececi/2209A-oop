@@ -1,0 +1,25 @@
+running develop
+running egg_info
+creating hybrid_nav.egg-info
+writing hybrid_nav.egg-info/PKG-INFO
+writing dependency_links to hybrid_nav.egg-info/dependency_links.txt
+writing entry points to hybrid_nav.egg-info/entry_points.txt
+writing requirements to hybrid_nav.egg-info/requires.txt
+writing top-level names to hybrid_nav.egg-info/top_level.txt
+writing manifest file 'hybrid_nav.egg-info/SOURCES.txt'
+reading manifest file 'hybrid_nav.egg-info/SOURCES.txt'
+writing manifest file 'hybrid_nav.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/sudenur/hybrid_nav_ws/install/hybrid_nav/lib/python3.10/site-packages/hybrid-nav.egg-link (link to .)
+Installing adaptation_node script to /home/sudenur/hybrid_nav_ws/install/hybrid_nav/lib/hybrid_nav
+Installing perception_node script to /home/sudenur/hybrid_nav_ws/install/hybrid_nav/lib/hybrid_nav
+
+Installed /home/sudenur/hybrid_nav_ws/build/hybrid_nav
+running symlink_data
+creating /home/sudenur/hybrid_nav_ws/install/hybrid_nav/share/ament_index
+creating /home/sudenur/hybrid_nav_ws/install/hybrid_nav/share/ament_index/resource_index
+creating /home/sudenur/hybrid_nav_ws/install/hybrid_nav/share/ament_index/resource_index/packages
+symbolically linking /home/sudenur/hybrid_nav_ws/build/hybrid_nav/resource/hybrid_nav -> /home/sudenur/hybrid_nav_ws/install/hybrid_nav/share/ament_index/resource_index/packages
+symbolically linking /home/sudenur/hybrid_nav_ws/build/hybrid_nav/package.xml -> /home/sudenur/hybrid_nav_ws/install/hybrid_nav/share/hybrid_nav
+creating /home/sudenur/hybrid_nav_ws/install/hybrid_nav/share/hybrid_nav/launch
+symbolically linking /home/sudenur/hybrid_nav_ws/build/hybrid_nav/launch/runsim.launch.py -> /home/sudenur/hybrid_nav_ws/install/hybrid_nav/share/hybrid_nav/launch
